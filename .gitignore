@@ -1,3 +1,9 @@
+# Ignore files wit API keys
+api_keys.csv
+
+# Ignore venv 
+ml_env/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
